@@ -11,6 +11,6 @@ export class Grafica1Component {
 
   public labels1: string[] = ['Pan', 'Gaseosa', 'Asado'];
   public data1 = [
-    [350, 450, 100],
+    [10, 15, 40],
   ];
 }
